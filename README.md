@@ -56,3 +56,22 @@ Libray:
 ---
 Output:
 Screenshot (959).png
+---
+
+---
+🧠 Features:
+ - 🚘 Real-time detection of parking slot occupancy
+ - 🧩 Custom slot selection and configuration using ParkingSpacePicker.py
+ - ⚡ Lightweight, fast, and easy to deploy
+ - 💻 Streamlit interface for visualization
+ ---
+
+ ---
+ 🧱 Tech Stack:
+ - Python
+ - OpenCV
+ - Streamlit
+ - NumPy
+ - CVZone
+
+ ---
