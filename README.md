@@ -6,7 +6,7 @@ This is the hosted application link for Real-Time-Parking-Slot-Monitoring-System
 
 ---
 Product Plan Document:
- - https://docs.google.com/document/d/1uJgJz-d96-3PkXwXziEZG6Kkf4c03k3AhEZz4NsxXjo/edit?usp=sharing
+ - https://docs.google.com/document/d/1BbC8UlvkNopDV2_tV1qm9ltd6-rr3HFg-oPYj4meUcQ/edit?usp=sharing
 ---
 ## Running the Project Locally
 
@@ -14,7 +14,7 @@ To run this project on your own machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone 
+    git clone https://github.com/sagarsinghchauhan/Real-Time-Parking-Slot-Monitoring-System.git
     cd Real-Time-Parking-Slot-Monitoring-System
     ```
 
@@ -34,7 +34,25 @@ To run this project on your own machine, follow these steps:
     ```bash
     python ParkingSpacePicker.py
     ```
-5.  **Run the Streamlit app:**
+
+5. **Run the main.py (if u doesn't need GUI):**
+     ```bash 
+     python main.py 
+      ```
+6.  **Run the Streamlit app (with GUI):**
     ```bash
     streamlit run main.py
     ```
+
+---
+Libray:
+ - opencv-python
+ - numpy
+ - cvzone
+ - pickle
+ - streamlit
+---
+
+---
+Output:
+Screenshot (959).png
